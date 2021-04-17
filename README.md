@@ -23,6 +23,9 @@ I did not encounter any technical difficulties when making this app, rather, I h
 I did some simple background and text color changes, but I also made it to that it displays the release date of the movies as well as their ratings. In addition, if the movie
 being displayed does not have a poster or backdrop image associated with it, I decided to display a generic image as a placeholder.
 
+Also, I was not able to produce a working GIF link from the instructions for Imgur, so I had to upload the GIF to my repository as suggested by one of my classmates and 
+use the link to the repo as opposed to the recommended way as that always gave me a .mp4 link.
+
 ### Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
